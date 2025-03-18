@@ -16,7 +16,7 @@ Nyisd meg a VS Code-ot, majd a bal oldali sávban kattints a Extensions ikonra.
 
 Keresd meg a "Python" bővítést (Microsoft készítette) és telepítsd.
 
-Lépj bele a python programokat tartalmazó mappába és írd be a következő parancsot a terminálba:pip install -r requirements.txt
+Lépj bele a python programokat tartalmazó mappába és írd be a következő parancsot a terminálba: pip install -r requirements.txt
 
 Ezután futtathatod a programokat
 
